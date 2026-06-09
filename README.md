@@ -129,10 +129,16 @@ openpyxl>=3.0.10
 **Sachin Jadhav** — 19 years in BFSI · Credit Risk · Loan Portfolio Management · Banking Analytics
 
 - 🌐 [FinsightOne](https://finsight-one-4cao.vercel.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/sachin-jadhav-consulting)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sachin-jadhav-consultant)
 - 📧 jadhav.sachin6290@gmail.com
 - 📅 [Book a discovery call](https://calendly.com/jadhav-sachin6290)
 
+Attribution
+Domain framework: Sachin Jadhav — 19 years SME/MSME credit appraisal and portfolio management, IndusInd Bank, CSB Bank, ING Vysya Bank, Yes Bank, South Indian Bank, Axis Bank.
+
+Code: Developed with AI assistance (Claude by Anthropic). The analytical logic, trigger thresholds, and portfolio concepts are based on real banking experience. The Python implementation was built with AI tools.
+
+This is honest. The framework is mine. The code is assisted.
 ---
 
 *Built from real-world banking experience. Every analysis technique here has been applied to live portfolios.*
